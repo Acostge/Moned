@@ -1,6 +1,0 @@
-{
-  "name": "FinanZen - Finanzas Personales & Balance",
-  "description": "App móvil para control de finanzas personales, activos, pasivos, deudas, cuentas por cobrar, cuotas Cashea, gráficas de categorías y sincronización con Google Sheets.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
